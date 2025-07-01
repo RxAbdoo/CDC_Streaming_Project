@@ -40,5 +40,5 @@ This setup is ideal for testing and developing real-time data pipelines with mod
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/RxAbdoo/CDC_Streaming_Project.git
+cd CDC_Streaming_Project
